@@ -1,6 +1,6 @@
 # 🌟 Shanmugaraj Sekar - Frontend Developer Portfolio
 
-![GitHub followers](https://img.shields.io/github/followers/[shanmugaraj-sekar](https://github.com/ShanZenX)?style=social) ![GitHub stars](https://img.shields.io/github/stars/[shanmugaraj-sekar](https://github.com/ShanZenX)?style=social)
+![GitHub followers](https://img.shields.io/github/followers/ShanZenX?style=social) ![GitHub stars](https://img.shields.io/github/stars/ShanZenX?style=social)
 
 ## 👋 Hello, I'm Shanmugaraj Sekar!
 
@@ -32,15 +32,21 @@ I'm a passionate **Frontend Developer** with a strong focus on building responsi
 
 ### 🚀 Featured Projects
 
-1. **[Credit Card Management System](https://github.com/shanmugaraj-sekar/credit-card-management):** A dynamic web application for managing credit cards built with React.js and styled with Tailwind CSS.
+1. **[Credit Card Management System](https://github.com/ShanZenX/credit-card-management):** A dynamic web application for managing credit cards built with React.js and styled with Tailwind CSS.
 
-2. **[Portfolio Website](https://github.com/shanmugaraj-sekar/portfolio-website):** My personal website showcasing my projects and skills, designed with HTML, CSS, and JavaScript for a smooth user experience.
+2. **[Connect Events](https://github.com/ShanZenX/connect-events):** A platform for managing and attending events, developed with a focus on user-friendly design and performance.
 
-3. **[Bootstrap Blog Template](https://github.com/shanmugaraj-sekar/bootstrap-blog-template):** A clean, responsive blog template created using Bootstrap, perfect for content creators and bloggers.
+3. **[Credit Pilot](https://github.com/ShanZenX/credit-pilot):** An application for tracking and managing credit card expenses with a clean and intuitive interface.
+
+4. **[Evoke](https://github.com/ShanZenX/evoke):** A project focused on creating engaging and interactive web experiences, showcasing advanced frontend techniques.
+
+5. **[Portfolio Website](https://github.com/ShanZenX/portfolio-website):** My personal website showcasing my projects and skills, designed with HTML, CSS, and JavaScript for a smooth user experience.
+
+6. **[Bootstrap Blog Template](https://github.com/ShanZenX/bootstrap-blog-template):** A clean, responsive blog template created using Bootstrap, perfect for content creators and bloggers.
 
 ### 📈 GitHub Stats
 
-![Shanmugaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanmugaraj-sekar&show_icons=true&theme=radical)
+![Shanmugaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShanZenX&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect!
 
@@ -49,4 +55,4 @@ I'm a passionate **Frontend Developer** with a strong focus on building responsi
 
 ---
 
-Feel free to replace the placeholder text, such as your email or LinkedIn URL, with your actual information. This README file is designed to showcase your skills, projects, and GitHub statistics in a visually appealing way.
+Feel free to replace the placeholder text, such as your email or LinkedIn URL, with your actual information. This README file now includes your new projects and reflects your updated GitHub username.
