@@ -1,6 +1,6 @@
 # 🌟 Shanmugaraj Sekar - Frontend Developer Portfolio
 
-![GitHub followers](https://img.shields.io/github/followers/shanmugaraj-sekar?style=social) ![GitHub stars](https://img.shields.io/github/stars/shanmugaraj-sekar?style=social)
+![GitHub followers](https://img.shields.io/github/followers/[shanmugaraj-sekar](https://github.com/ShanZenX)?style=social) ![GitHub stars](https://img.shields.io/github/stars/[shanmugaraj-sekar](https://github.com/ShanZenX)?style=social)
 
 ## 👋 Hello, I'm Shanmugaraj Sekar!
 
